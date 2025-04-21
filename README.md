@@ -1,4 +1,4 @@
-## Angular Examples
+## Angular 
 
 ### AI Examples
 * [Vertex AI in Firebase with Angular Starter Kit](./vertex-ai-firebase-angular-example)
